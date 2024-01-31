@@ -1,4 +1,4 @@
-Guide to commit files:  
+Guide to create repository for files:  
 
 git commit -m "files 1 and 2 added"
 
